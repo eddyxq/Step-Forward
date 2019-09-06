@@ -1,2 +1,3 @@
-# Step-Forward
-Website for the club Step Forward
+Step-Forward Project 
+
+Website developed for the Step Forward, #1 Volunteering Club
